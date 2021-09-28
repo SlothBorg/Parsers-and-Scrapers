@@ -1,0 +1,54 @@
+Acolyte,Shelter of the Faithful,"Insight, Religion","Social, Religious"
+Anthropologist,Adept Linguist,"Insight, Religion","Social, Exploration"
+Archaeologist,Historical Knowledge,"History, Survival","Social, Exploration"
+Azorius Functionary,Legal Authority,,Guild
+Boros Legionnaire,Legion Station,"Athletics, Intimidation",Guild
+Charlatan,False Identity,"Deception, Sleight of Hand","Social, Deception"
+City Watch / Investigator,Watcher’s Eye,"Athletics, Investigation, Insight","Social, Detection, Combat"
+Clan Crafter,Respect of the Stout Folk,"History, Insight","Social, Utility"
+Cloistered Scholar,Library Access,"History, Arcana, Nature, Religion","Social, Utility"
+Courtier,Court Functionary,"Insight, Persuasion",Social
+Criminal / Spy,Criminal Contact,"Deception, Stealth","Social, Exploration, Deception"
+Dimir Operative,False Identity,"Deception, Stealth",Guild
+Entertainer,By Popular Demand,"Acrobatics, Performance","Social, Utility"
+Faction Agent,Safe Haven,"Insight, Arcana, History, Investigation, Nature, Religion, Animal Handling, Insight, Medicine, Perception, Survival, Deception, Intimidation, Performance, Persuasion","Social, Utility"
+Far Traveler,All Eyes on You,"Insight, Perception",Social
+Folk Hero,Rustic Hospitality,"Animal Handling, Survival","Social, Utility"
+Gladiator,By Popular Demand,"Acrobatics, Performance","Social, Combat"
+Golgari Agent,Undercity Paths,"Nature, Survival",Guild
+Gruul Anarch,Rubblebelt Refuge,"Animal Handling, Athletics",Guild
+Guild Artisan / Guild Merchant,Guild Membership,"Insight, Persuasion","Social, Utility"
+Haunted One,Heart of Darkness,"Arcana, Investigation, Religion, Survival, Arcana, Investigation, Religion, Survival","Utility, Combat"
+Hermit,Discovery,"Medicine, Religion","Healing, Social, Utility"
+House Agent (Cannith),House Connections,"Investigation, Persuasion","Social, Utility"
+House Agent (Deneith),House Connections,"Investigation, Persuasion","Social, Utility"
+House Agent (Ghallanda),House Connections,"Investigation, Persuasion","Social, Utility"
+House Agent (Jorasco),House Connections,"Investigation, Persuasion","Social, Utility"
+House Agent (Kundarak),House Connections,"Investigation, Persuasion","Social, Utility"
+House Agent (Lyrandar),House Connections,"Investigation, Persuasion","Social, Utility"
+House Agent (Medani),House Connections,"Investigation, Persuasion","Social, Utility"
+House Agent (Orien),House Connections,"Investigation, Persuasion","Social, Utility"
+House Agent (Phiarlan),House Connections,"Investigation, Persuasion","Social, Utility"
+House Agent (Sivis),House Connections,"Investigation, Persuasion","Social, Utility"
+House Agent (Tharashk),House Connections,"Investigation, Persuasion","Social, Utility"
+House Agent (Thuranni),House Connections,"Investigation, Persuasion","Social, Utility"
+House Agent (Vadalis),House Connections,"Investigation, Persuasion","Social, Utility"
+Inheritor,Inheritance,"Survival, Arcana, History, Religion",Social
+Izzet Engineer,Urban Infrastructure,"Arcana, Investigation",Guild
+Knight,Retainers,"History, Persuasion","Social, Utility"
+Knight of the Order,Knightly Regard,"Persuasion, Arcana, History, Nature, Religion",Social
+Mercenary Veteran,Mercenary Life,"Athletics, Persuasion","Social, Utility"
+Noble,Position of Privilege,"History, Persuasion","Social, Utility"
+Orzhov Representative,Leverage,"Intimidation, Religion",Guild
+Outlander,Wanderer,"Athletics, Survival","Social, Utility"
+Pirate,Bad Reputation,"Athletics, Perception","Social, Utility, Exploration"
+Rakdos Cultist,Fearsome Reputation,"Acrobatics, Performance",Guild
+Sage,Researcher,"Arcana, History","Social, Utility"
+Sailor,Ship's Passage,"Athletics, Perception","Social, Utility, Exploration"
+Selesnya Initiate,Conclave’s Shelter,"Nature, Persuasion",Guild
+Simic Scientist,Researcher,"Arcana, Medicine",Guild
+Soldier,Military Rank,"Athletics, Intimidation","Social, Exploration, Combat"
+Urban Bounty Hunter,Ear to the Ground,"Stealth, Insight, Deception, Persuasion, Stealth, Insight, Deception, Persuasion","Social, Utility"
+Urchin,City Secrets,"Sleight of Hand, Stealth","Social, Utility, Deception"
+Uthgardt Tribe Member,Uthgardt Heritage,"Athletics, Survival","Social, Utility"
+Waterdhavian Noble,Kept in Style,"History, Persuasion",Social
