@@ -8,6 +8,7 @@ def save_image(url, name):
     wget.download(url, name)
     print()
 
+
 def make_name(name):
     name = name.split(' (', 1)[0] + '.jpg'
     return name.replace('//', '-')
