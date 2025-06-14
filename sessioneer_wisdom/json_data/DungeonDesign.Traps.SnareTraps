@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "558bfdbf-a344-46e9-b477-9eb644af9401",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Snare Traps",
+        "content": "# Snare Traps\n\nSnare traps restrain, immobilize, or suspend victims. They can be mundane (ropes, nets) or magical (glyphs, force fields).\n\n## Example Snare Traps by Level\n\n### Low-Level Example: Rope Snare\n*Trigger:* Stepping on a hidden loop in a forest path.\n*Effect:* DC 13 Perception to spot, DC 15 Dexterity save to avoid. On failure, the character is yanked upside down, hanging 10 feet above the ground. Escape requires a DC 12 Acrobatics or cutting the rope.\n*Clue:* Disturbed leaves, a faintly visible rope, animal tracks.\n\n### Mid-Level Example: Net Trap\n*Trigger:* Opening a trapped door in a dungeon.\n*Effect:* A weighted net drops, restraining all creatures in a 10-foot square. DC 14 Strength or Dexterity check to escape. The net is laced with mild poison (DC 13 Constitution save or poisoned for 1 minute).\n*Clue:* Scratches on the door frame, a faint chemical smell.\n\n### High-Level Example: Magical Glyph Snare\n*Trigger:* Crossing a glowing rune in a wizard's lair.\n*Effect:* DC 16 Arcana to detect. On trigger, magical force fields restrain all creatures in a 20-foot radius. DC 17 Strength or spellcasting check to break free. Lasts for 3 rounds or until dispelled.\n*Clue:* Faintly glowing runes, a humming sound, scorch marks on the floor.\n\n## Design Tips\n- Place in areas where movement is expected (doorways, narrow paths).\n- Use as alarms or to set up ambushes.\n\n## Best Practices\n- Allow for creative escapes (cutting the rope, burning, using tools).\n- Combine with environmental hazards (e.g., over a pit, near monsters).\n\n## References\n- [Elfmaids & Octopi Trap Tables](https://elfmaidsandoctopi.blogspot.com/)\n",
+        "created_at": "2025-05-09T15:44:43.721Z",
+        "updated_at": "2025-05-26T20:28:58.656Z",
+        "path": "DungeonDesign.Traps.SnareTraps"
+    }
+}

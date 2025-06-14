@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "45f0e794-f21c-4f86-b312-b5e5726ccebf",
+        "parent_id": "fdc55b93-aa90-401d-a95b-b5eb72c2726b",
+        "title": "Challenge Design",
+        "content": "Challenge Design\n\nDesigning obstacles that test player ingenuity, resource management, and teamwork-whether that's a roaring dragon, a logic-twisting puzzle, or the peril of journeying through uncharted wilds.  Child documents drill into specific challenge types:\n\n* Balancing Encounters - combat math & action-economy tricks\n* Random Encounters - using uncertainty to shape pacing and tension\n* Puzzles & Traps - brain-teasers and surprises\n* Environmental Hazards - weather, terrain, and natural threats",
+        "created_at": "2025-05-04T07:38:04.574Z",
+        "updated_at": "2025-05-26T20:28:54.380Z",
+        "path": "GameMechanics.ChallengeDesign"
+    }
+}

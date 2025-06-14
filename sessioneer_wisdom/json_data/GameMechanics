@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "fdc55b93-aa90-401d-a95b-b5eb72c2726b",
+        "parent_id": null,
+        "title": "Game Mechanics",
+        "content": "Game Mechanics\n\nA hub for rules-focused guidance that helps GMs translate story ideas into engaging, balanced, and fun tabletop play. Sub-sections break down specific subsystems such as challenge design, core combat procedures, travel, rewards, and more.\n\nUse this parent document as a jumping-off point to topics like [Challenge Design](GameMechanics.ChallengeDesign) or Core Systems.",
+        "created_at": "2025-05-04T07:37:58.317Z",
+        "updated_at": "2025-05-26T20:29:01.249Z",
+        "path": "GameMechanics"
+    }
+}

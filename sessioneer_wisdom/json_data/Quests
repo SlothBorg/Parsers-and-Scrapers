@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "0fae5b4d-01e0-4442-8155-740f0af8d992",
+        "parent_id": null,
+        "title": "Quests",
+        "content": "# Quests\n\nA collection of actionable advice, techniques, and examples for designing and running quests in tabletop RPGs. This section covers both main story quests and side quests, with a focus on providing GMs with practical tools to enhance player agency, world-building, and campaign depth.\n\n## Subsections\n- [Side Quests](Quests.SideQuests)\n\nStay tuned for more quest-related wisdom!",
+        "created_at": "2025-05-06T02:39:21.382Z",
+        "updated_at": "2025-05-26T20:28:55.105Z",
+        "path": "Quests"
+    }
+}

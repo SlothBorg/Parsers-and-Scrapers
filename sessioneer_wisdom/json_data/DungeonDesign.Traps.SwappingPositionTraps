@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "f005ff6e-9fae-452a-89f3-80cf252f4ffc",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Swapping Position Traps",
+        "content": "# Swapping Position Traps\n\nSwapping position traps teleport, rotate, or otherwise move characters to new locations. These traps are excellent for splitting the party, introducing puzzles, or advancing the story in unexpected ways.\n\n## Example Swapping Position Traps by Level\n\n### Low-Level Example: Rotating Floor\n*Trigger:* Stepping on a marked tile in a corridor.\n*Effect:* DC 13 Investigation to spot, DC 13 Dexterity save to avoid. On failure, the floor rotates, swapping the character with another party member or an NPC in the dungeon.\n*Clue:* Faint groove around the tile, odd scuff marks, a clicking sound.\n\n### Mid-Level Example: Teleportation Circle\n*Trigger:* Entering a glowing circle in a puzzle room.\n*Effect:* DC 15 Arcana to detect. On trigger, the character is teleported to a random room in the dungeon. Only solving the puzzle can reverse the effect.\n*Clue:* Glowing runes, magical hum, a sense of vertigo.\n\n### High-Level Example: Maze of Portals\n*Trigger:* Activating the wrong portal in a magical maze.\n*Effect:* DC 17 Arcana to detect. On trigger, the party is split and each member is sent to a different section of the maze. Only by solving interconnected puzzles can they reunite.\n*Clue:* Shifting walls, echoing footsteps, magical symbols.\n\n## Design Tips\n- Use to split the party, create puzzles, or introduce new challenges.\n- Make the destination interesting (locked room, monster lair, puzzle chamber).\n\n## Best Practices\n- Use to advance the story or create memorable moments.\n- Combine with other traps for added complexity.\n\n## References\n- Master the Dungeon's [Moving Players with Traps in D&D](https://www.youtube.com/watch?v=KyRFraqSIcA)\n",
+        "created_at": "2025-05-09T15:48:11.314Z",
+        "updated_at": "2025-05-26T20:29:02.476Z",
+        "path": "DungeonDesign.Traps.SwappingPositionTraps"
+    }
+}

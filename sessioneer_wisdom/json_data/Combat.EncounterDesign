@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "30aefd15-8bd5-4822-ac2f-39eb577ac07e",
+        "parent_id": "ec241c13-17d3-4383-bf40-21c0038c6555",
+        "title": "Encounter Design",
+        "content": "Encounter Design\n\nA central hub for all GM advice focused on building engaging combat encounters. From choosing the right encounter TYPE, to tuning pacing, terrain, objectives, and tactical depth, the sub-pages here collect best-practice guidance gathered from many creators.\n\n---\n\n## Encounter Design in Young & Functional Dungeons\n\nEncounters in active, functional dungeons are often with organized groups (guards, staff, patrols) rather than random monsters. Consider:\n- Patrol schedules and reinforcements\n- Alarms and alert states\n- The impact of removing or bypassing one group on the rest of the dungeon\n- Opportunities for stealth, deception, and roleplay (interrogating guards, impersonating staff)\n\nFor a full guide, see [Young and Functional Dungeons](DungeonDesign.YoungAndFunctionalDungeons).\n\n---\n\nCurrent sub-pages you can explore:\n- **Eight Core Combat Types** - When you need variety, start here.\n- **Boss Encounter Recipes** - For finales and \"set pieces\" see [Six-Ingredient Boss Recipe](Combat.BossBattles.SixIngredientBossRecipe).\n- **Pacing & Win-Conditions** - Fast-flow checklists and alternate goals are covered in [Making Combat Fast & Fun](Combat.MakingCombatFastNFun).\n\nUse this section whenever a fight on tonight's agenda feels flat.  Pick the right template, layer in terrain & stakes, then watch the table ignite.",
+        "created_at": "2025-05-04T09:31:53.836Z",
+        "updated_at": "2025-06-08T04:26:41.989Z",
+        "path": "Combat.EncounterDesign"
+    }
+}

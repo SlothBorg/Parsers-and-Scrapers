@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "2d336843-0c9f-4ca8-9a03-99a0fd40d1fe",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Hunting Traps",
+        "content": "# Hunting Traps\n\nHunting traps (bear traps, spiked jaws) are designed to clamp and hold, inflicting damage and restricting movement. These are often used in wilderness settings or as defensive measures in dungeons.\n\n## Example Hunting Traps by Level\n\n### Low-Level Example: Bear Trap\n*Trigger:* Stepping on a concealed metal trap in the undergrowth.\n*Effect:* DC 13 Perception to spot, DC 13 Dexterity save to avoid. On failure, the trap snaps shut, dealing 1d4 piercing damage and restraining the victim. Each attempt to escape deals 1 more damage. DC 12 Strength check to open.\n*Clue:* Disturbed earth, faint metallic glint, animal bones nearby.\n\n### Mid-Level Example: Spiked Jaw Trap\n*Trigger:* Crossing a trapped bridge in a goblin lair.\n*Effect:* DC 15 Perception to spot, DC 14 Dexterity save to avoid. On failure, the trap clamps shut for 2d6 piercing damage and restrains the victim. The trap is rigged with a bell to alert nearby monsters.\n*Clue:* Scratches on the bridge, a faint jingling sound, goblin graffiti.\n\n### High-Level Example: Magical Immobilization Field\n*Trigger:* Entering a marked circle in a lich's tomb.\n*Effect:* DC 17 Arcana to detect. On trigger, spectral jaws clamp down, dealing 3d8 force damage and restraining the target. Only a DC 18 Strength check or Dispel Magic can free the victim.\n*Clue:* Faintly glowing sigils, a chill in the air, skeletal remains.\n\n## Design Tips\n- Conceal with leaves, dirt, or snow for wilderness settings; embed in stone for dungeons.\n- Use to slow or injure, not just to deal damage.\n\n## Best Practices\n- Use in chase scenes or to protect key locations.\n- Combine with alarms or as part of a larger encounter.\n\n## References\n- Master the Dungeon's [Hunting Traps for D&D](https://www.youtube.com/watch?v=NVs9AINsGfg)\n",
+        "created_at": "2025-05-09T15:44:59.277Z",
+        "updated_at": "2025-05-26T20:29:00.955Z",
+        "path": "DungeonDesign.Traps.HuntingTraps"
+    }
+}

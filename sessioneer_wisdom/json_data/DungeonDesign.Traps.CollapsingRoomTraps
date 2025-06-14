@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "02c848a6-83f9-47d3-986c-823abd1d5943",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Collapsing Room Traps",
+        "content": "# Collapsing Room Traps\n\nCollapsing room traps cause entire rooms or tunnels to cave in, threatening to crush or trap the party. These are high-stakes, often monster-driven traps that can dramatically alter the dungeon's layout and the party's fate.\n\n## Example Collapsing Room Traps by Level\n\n### Low-Level Example: Collapsing Tunnel\n*Trigger:* Squeezing through a narrow passage after a fleeing kobold.\n*Effect:* DC 13 Perception to spot unstable supports, DC 13 Dexterity save to avoid. On failure, 1d6 bludgeoning damage and the character is trapped under rubble until freed (DC 12 Strength check by an ally).\n*Clue:* Loose dirt, makeshift wooden supports, scurrying sounds.\n\n### Mid-Level Example: Collapsing Support Room\n*Trigger:* Chasing a goblin who pulls a rope as it exits.\n*Effect:* DC 15 Perception to spot, DC 15 Dexterity save to avoid. On failure, the ceiling collapses for 4d10 bludgeoning damage and the character is buried. Escape requires digging or magic (e.g., \"Mold Earth\").\n*Clue:* Rope tied to a central column, dust falling from the ceiling, panicked monster behavior.\n\n### High-Level Example: Total Cave-In\n*Trigger:* Entering a trapped lair with magical supports.\n*Effect:* DC 17 Arcana to detect, DC 17 Dexterity save to avoid. On failure, the entire room collapses for 8d10 bludgeoning damage, and the party is separated by impassable rubble. Only powerful magic (e.g., \"Stone Shape,\" \"Teleport\") can escape.\n*Clue:* Magical runes on supports, faint tremors, echoing cracks.\n\n## Design Tips\n- Use as a monster tactic (kobolds, goblins) or as a last-ditch defense.\n- Foreshadow with unstable supports, dust, or fleeing creatures.\n\n## Best Practices\n- Allow for escape or rescue; avoid instant TPKs.\n- Use to change the dungeon layout or force new paths.\n\n## References\n- Master the Dungeon's [Collapsing Room Traps for D&D](https://www.youtube.com/watch?v=FvlB3AqKK2A)\n",
+        "created_at": "2025-05-09T15:47:53.355Z",
+        "updated_at": "2025-05-26T20:29:01.860Z",
+        "path": "DungeonDesign.Traps.CollapsingRoomTraps"
+    }
+}

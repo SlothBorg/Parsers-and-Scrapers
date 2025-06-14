@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "4c694d25-4e44-44fa-a0e2-1b4b60004b2e",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Disease Traps",
+        "content": "# Disease Traps\n\nDisease traps infect with filth, vermin, or magical illness. These traps are best used to create long-term challenges and add a sense of danger to ancient tombs, sewers, or monster lairs.\n\n## Example Disease Traps by Level\n\n### Low-Level Example: Spore Trap\n*Trigger:* Disturbing a moldy corpse in a crypt.\n*Effect:* DC 13 Medicine or Perception to spot, DC 13 Constitution save or contract a minor disease (e.g., filth fever, disadvantage on Strength checks for 24 hours).\n*Clue:* Fungal growth, musty smell, flies buzzing.\n\n### Mid-Level Example: Vermin Swarm\n*Trigger:* Opening a rotting chest in a sewer.\n*Effect:* DC 15 Investigation to spot, DC 14 Constitution save or contract sewer plague (see DMG for effects). Swarm of rats or insects attacks for 2d6 damage.\n*Clue:* Scratching sounds, droppings, foul odor.\n\n### High-Level Example: Magical Plague Trap\n*Trigger:* Breaking a cursed seal in a lich's lair.\n*Effect:* DC 17 Arcana to detect. On trigger, a cloud of magical disease infects all in a 20-foot radius. DC 17 Constitution save or contract a magical disease (e.g., mummy rot, no natural healing until cured).\n*Clue:* Sickly green glow, arcane symbols, chill in the air.\n\n## Design Tips\n- Use in ancient tombs, sewers, or monster lairs.\n- Make symptoms progressive and story-relevant.\n\n## Best Practices\n- Use as a long-term challenge, not just immediate damage.\n- Provide clues and means to cure.\n\n## References\n- Master the Dungeon's [Poison and Disease Traps for D&D](https://www.youtube.com/watch?v=_pVRxLjmzSI)\n",
+        "created_at": "2025-05-09T15:48:32.108Z",
+        "updated_at": "2025-05-26T20:29:02.181Z",
+        "path": "DungeonDesign.Traps.DiseaseTraps"
+    }
+}

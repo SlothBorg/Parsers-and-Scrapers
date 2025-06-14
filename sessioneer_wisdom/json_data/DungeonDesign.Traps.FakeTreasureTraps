@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "ba273115-5ab7-4916-9847-08db4beff024",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Fake Treasure Traps",
+        "content": "# Fake Treasure Traps\n\nFake treasure traps use mimics, cursed loot, or treasure that triggers danger. These traps are designed to test greed or caution and can be used to teach lessons or advance the story.\n\n## Example Fake Treasure Traps by Level\n\n### Low-Level Example: Mimic Chest\n*Trigger:* Attempting to open a suspicious chest in a dungeon.\n*Effect:* DC 13 Investigation to spot. On trigger, the chest is actually a mimic that attacks the opener (see MM for stats).\n*Clue:* Odd placement, sticky residue, chest breathes faintly.\n\n### Mid-Level Example: Cursed Coin Pile\n*Trigger:* Taking coins from a pile in a tomb.\n*Effect:* DC 15 Arcana to detect. On trigger, the taker is cursed (disadvantage on attack rolls until the coins are returned or curse is lifted).\n*Clue:* Coins are unusually shiny, faint magical aura, bones nearby.\n\n### High-Level Example: Trap of Greed\n*Trigger:* Removing a jeweled crown from a pedestal in a vault.\n*Effect:* DC 17 Arcana to detect. On trigger, the crown animates and attacks (use \"Animated Object\" stats) and the room fills with poison gas (DC 17 Constitution save or take 4d10 poison damage).\n*Clue:* Crown is warm to the touch, pedestal has runes, faint hissing sound.\n\n## Design Tips\n- Use to test greed or caution.\n- Make the reward tempting but the danger real.\n\n## Best Practices\n- Provide clues (odd placement, warnings).\n- Use as a lesson or to advance the story.\n\n## References\n- [Elfmaids & Octopi Trap Tables](https://elfmaidsandoctopi.blogspot.com/)\n",
+        "created_at": "2025-05-09T15:49:38.480Z",
+        "updated_at": "2025-05-26T20:28:46.227Z",
+        "path": "DungeonDesign.Traps.FakeTreasureTraps"
+    }
+}

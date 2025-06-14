@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "425ed534-bb3b-48ea-9b12-ce2d4a93b9ad",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Obvious Traps",
+        "content": "# Obvious Traps\n\nObvious traps are clearly visible, often used as deterrents or to mislead. These traps play on player expectations and can be used to create tension, subvert assumptions, or as decoys for more dangerous traps.\n\n## Example Obvious Traps by Level\n\n### Low-Level Example: Boulder Trap\n*Trigger:* Taking treasure from a pedestal in a corridor.\n*Effect:* DC 12 Perception to spot (the boulder is obvious). On trigger, the boulder rolls down the corridor, dealing 2d6 bludgeoning damage to anyone in its path. The real danger is hidden wall traps triggered by the boulder.\n*Clue:* Boulder poised above, grooves in the floor, treasure in plain sight.\n\n### Mid-Level Example: Flaming Jet Hallway\n*Trigger:* Stepping on a pressure plate in a hallway lined with flame jets.\n*Effect:* DC 14 Perception to spot, DC 14 Dexterity save to avoid. On failure, jets of fire deal 3d6 fire damage. The first plate is placed far before the jets to telegraph the danger.\n*Clue:* Scorch marks, heat, faint smell of oil.\n\n### High-Level Example: Golem Guardian\n*Trigger:* Approaching a massive golem statue in a treasure vault.\n*Effect:* DC 17 Arcana to detect. On trigger, the golem animates and attacks, but the real treasure is hidden elsewhere. The golem is a decoy to distract from a more subtle trap.\n*Clue:* Runic inscriptions, dust-free footprints, treasure in plain sight.\n\n## Design Tips\n- Use to create tension or as a decoy for hidden dangers.\n- Make the reward tempting enough to risk the trap.\n\n## Best Practices\n- Use to subvert expectations or as part of a theme (trickster dungeons).\n- Avoid overuse to prevent player paranoia.\n\n## References\n- Master the Dungeon's [Obvious vs Unexpected Traps](https://www.youtube.com/watch?v=TWZ0WdWoRSQ)\n",
+        "created_at": "2025-05-09T15:48:51.958Z",
+        "updated_at": "2025-05-26T20:29:02.793Z",
+        "path": "DungeonDesign.Traps.ObviousTraps"
+    }
+}

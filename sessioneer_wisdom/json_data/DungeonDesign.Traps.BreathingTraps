@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "8d951a88-ed28-4dc8-a685-adbe578f1d1e",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Breathing Traps",
+        "content": "# Breathing Traps\n\nBreathing traps threaten with suffocation, poison gas, or airless environments. These traps are especially effective in tombs, crypts, or sealed rooms, and can create intense time pressure.\n\n## Example Breathing Traps by Level\n\n### Low-Level Example: Sealed Room\n*Trigger:* Closing a door behind the party in a crypt.\n*Effect:* DC 13 Perception to spot, DC 13 Constitution save each round or begin to suffocate after 3 rounds. The room can be opened with a DC 14 Strength check or \"Knock\" spell.\n*Clue:* Stale air, dust motes, faint hissing sound.\n\n### Mid-Level Example: Poison Gas Chamber\n*Trigger:* Stepping on a pressure plate in a treasure vault.\n*Effect:* DC 15 Investigation to spot, DC 15 Constitution save each round or take 2d10 poison damage. The gas can be neutralized with \"Gust of Wind\" or similar magic.\n*Clue:* Greenish mist, chemical smell, corroded metal.\n\n### High-Level Example: Vacuum Trap\n*Trigger:* Breaking a magical seal in a wizard's laboratory.\n*Effect:* DC 17 Arcana to detect. On trigger, all air is sucked from the room, causing instant suffocation (DC 17 Constitution save each round or fall unconscious). Only dispelling the magic or solving a puzzle restores the air.\n*Clue:* Sudden silence, magical runes, a sense of pressure.\n\n## Design Tips\n- Use in tombs, crypts, or sealed rooms.\n- Foreshadow with stale air, mold, or warning glyphs.\n\n## Best Practices\n- Allow for creative solutions (breaking doors, using spells).\n- Combine with time pressure or other hazards.\n\n## References\n- [Roll20 Mechanical Traps Compendium](https://roll20. net/compendium/dnd5e/Traps)\n",
+        "created_at": "2025-05-09T15:48:11.314Z",
+        "updated_at": "2025-05-26T20:29:00.635Z",
+        "path": "DungeonDesign.Traps.BreathingTraps"
+    }
+}

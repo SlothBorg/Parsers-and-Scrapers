@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "51b343ae-0886-4562-8a47-8ec8017639c6",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Trapped Bottles",
+        "content": "# Trapped Bottles\n\nTrapped bottles or containers release hazards when opened, such as gas, insects, or curses. These traps are great for alchemy labs, treasure hoards, or apothecaries, and can add surprise and chaos to exploration.\n\n## Example Trapped Bottle Traps by Level\n\n### Low-Level Example: Poison Gas Bottle\n*Trigger:* Opening a dusty bottle in an abandoned lab.\n*Effect:* DC 13 Investigation to spot, DC 13 Constitution save or take 2d6 poison damage and be poisoned for 1 minute.\n*Clue:* Greenish residue, faint chemical smell, wax-sealed cork.\n\n### Mid-Level Example: Swarm Bottle\n*Trigger:* Uncorking a bottle in a treasure hoard.\n*Effect:* DC 15 Perception to spot, DC 14 Dexterity save to avoid. On failure, a swarm of biting insects is released, dealing 2d6 damage and causing disadvantage on concentration checks for 1 hour.\n*Clue:* Buzzing sound, scratches on the glass, odd warmth.\n\n### High-Level Example: Cursed Spirit Bottle\n*Trigger:* Breaking a bottle in a lich's laboratory.\n*Effect:* DC 17 Arcana to detect. On trigger, a vengeful spirit is released, casting \"Bestow Curse\" on all within 20 feet (DM's choice of effect).\n*Clue:* Faint whispers, swirling mist, magical runes on the glass.\n\n## Design Tips\n- Use as a surprise in alchemy labs, treasure hoards, or apothecaries.\n- Make the effect fit the setting (poison gas, swarms, curses).\n\n## Best Practices\n- Allow for detection (smell, residue) and safe handling.\n- Use as a resource drain or to create chaos.\n\n## References\n- Master the Dungeon's [D&D Traps in a Bottle](https://www.youtube.com/watch?v=51qSAWZkprU)\n",
+        "created_at": "2025-05-09T15:49:38.510Z",
+        "updated_at": "2025-05-26T20:28:46.502Z",
+        "path": "DungeonDesign.Traps.TrappedBottles"
+    }
+}

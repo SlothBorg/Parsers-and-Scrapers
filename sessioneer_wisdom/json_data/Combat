@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "ec241c13-17d3-4383-bf40-21c0038c6555",
+        "parent_id": null,
+        "title": "Combat",
+        "content": "# Combat\n\nAdvice, tools, and examples for running tactically exciting, fast-moving, and story-driven battles at the table.\n\n**Sub-topics that live here (growing):**\n- [Making Combat Fast & Fun](Combat.MakingCombatFastNFun)\n\nUse this section when you need practical guidance for designing encounters, mastering initiative, describing action, or fixing a fight that is stalling out.",
+        "created_at": "2025-05-04T08:12:48.969Z",
+        "updated_at": "2025-06-05T22:25:13.227Z",
+        "path": "Combat"
+    }
+}

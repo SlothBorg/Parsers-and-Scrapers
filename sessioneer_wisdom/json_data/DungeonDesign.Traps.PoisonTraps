@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "96280af3-828d-4741-92c8-da191a6bbc84",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Poison Traps",
+        "content": "# Poison Traps\n\nPoison traps deliver toxins via darts, needles, gas, or other means. These traps are versatile and can be used to drain resources, create ongoing challenges, or add tension to exploration and combat.\n\n## Example Poison Traps by Level\n\n### Low-Level Example: Needle Trap\n*Trigger:* Opening a trapped chest or drawer.\n*Effect:* DC 13 Investigation to spot, DC 13 Dexterity save to avoid. On failure, a hidden needle pricks the character, dealing 1d4 piercing damage and requiring a DC 12 Constitution save or become poisoned for 1 hour.\n*Clue:* Small hole in the lock, faint chemical smell, greenish residue.\n\n### Mid-Level Example: Poison Dart Corridor\n*Trigger:* Stepping on a pressure plate in a hallway.\n*Effect:* DC 15 Perception to spot, DC 14 Dexterity save to avoid. On failure, darts shoot from the walls, dealing 2d6 piercing damage and requiring a DC 14 Constitution save or take 3d6 poison damage and be poisoned for 10 minutes.\n*Clue:* Tiny holes in the walls, faint clicking sound, acrid odor.\n\n### High-Level Example: Poison Gas Chamber\n*Trigger:* Breaking a magical seal in a treasure vault.\n*Effect:* DC 17 Arcana to detect. On trigger, the room fills with deadly gas. DC 17 Constitution save each round or take 4d10 poison damage and be paralyzed for 1 minute. Only \"Gust of Wind\" or \"Dispel Magic\" can clear the gas.\n*Clue:* Green mist, magical runes, corroded metal.\n\n## Design Tips\n- Use as a resource drain or to create ongoing challenges.\n- Vary the effects: damage, status, or delayed onset.\n\n## Best Practices\n- Use in conjunction with other traps or as a secondary effect.\n- Allow for detection and antidotes.\n\n## References\n- Master the Dungeon's [Poison and Disease Traps for D&D](https://www.youtube.com/watch?v=_pVRxLjmzSI)\n",
+        "created_at": "2025-05-09T15:48:32.163Z",
+        "updated_at": "2025-05-26T20:28:41.822Z",
+        "path": "DungeonDesign.Traps.PoisonTraps"
+    }
+}

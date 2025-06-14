@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "83eede04-ae16-40e9-a452-69e38b80fc41",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Trapped Books",
+        "content": "# Trapped Books\n\nTrapped books trigger magical or mechanical effects when opened or read. These traps are perfect for testing curiosity, rewarding caution, or adding flavor to libraries and wizard lairs.\n\n## Example Trapped Book Traps by Level\n\n### Low-Level Example: Exploding Ink Trap\n*Trigger:* Opening a dusty tome in a forgotten library.\n*Effect:* DC 13 Investigation to spot, DC 13 Dexterity save to avoid. On failure, the book explodes in a puff of ink, blinding the reader for 1 minute.\n*Clue:* Ink stains, loose binding, faint chemical smell.\n\n### Mid-Level Example: Glyph of Warding\n*Trigger:* Reading a trapped spellbook in a wizard's study.\n*Effect:* DC 15 Arcana to detect. On trigger, a glyph of warding (fireball) explodes, dealing 8d6 fire damage in a 20-foot radius.\n*Clue:* Magical runes, faint warmth, singed pages.\n\n### High-Level Example: Cursed Grimoire\n*Trigger:* Attempting to read a forbidden tome in a lich's library.\n*Effect:* DC 17 Arcana to detect. On trigger, the reader is cursed (disadvantage on all Intelligence checks until \"Remove Curse\" is cast) and takes 4d6 psychic damage.\n*Clue:* Whispering voices, shifting text, chill in the air.\n\n## Design Tips\n- Use as a test of curiosity or caution.\n- Make the effect thematic (exploding runes, curses, illusions).\n\n## Best Practices\n- Provide clues (burn marks, warnings).\n- Allow for magical or mundane disarmament.\n\n## References\n- [D&D Beyond Trap Design Guide](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Traps)\n",
+        "created_at": "2025-05-09T15:49:14.908Z",
+        "updated_at": "2025-05-26T20:28:58.476Z",
+        "path": "DungeonDesign.Traps.TrappedBooks"
+    }
+}

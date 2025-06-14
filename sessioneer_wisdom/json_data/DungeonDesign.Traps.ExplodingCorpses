@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "25dd87c0-f1ce-462f-bb1c-de0b685ae7d3",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Exploding Corpses",
+        "content": "# Exploding Corpses\n\nExploding corpses are rigged to detonate with gas, poison, or shrapnel when disturbed. These traps are especially effective in crypts, battlefields, or monster lairs, and can combine surprise with environmental storytelling.\n\n## Example Exploding Corpse Traps by Level\n\n### Low-Level Example: Gas Burst Corpse\n*Trigger:* Disturbing a bloated corpse in a tomb.\n*Effect:* DC 13 Medicine or Perception to spot, DC 13 Constitution save or take 2d6 poison damage and be poisoned for 1 minute.\n*Clue:* Swollen body, greenish tint, flies buzzing.\n\n### Mid-Level Example: Shrapnel Corpse\n*Trigger:* Moving a corpse in a battlefield.\n*Effect:* DC 15 Investigation to spot, DC 14 Dexterity save to avoid. On failure, the corpse explodes, dealing 3d6 piercing damage to all within 10 feet.\n*Clue:* Wires or glass embedded in the body, faint ticking sound.\n\n### High-Level Example: Magical Plague Corpse\n*Trigger:* Touching a corpse in a lich's lair.\n*Effect:* DC 17 Arcana to detect. On trigger, the corpse explodes in a cloud of magical disease. DC 17 Constitution save or contract a magical disease (e.g., mummy rot, no natural healing until cured).\n*Clue:* Arcane runes, sickly glow, chill in the air.\n\n## Design Tips\n- Use as a surprise in crypts, battlefields, or monster lairs.\n- Foreshadow with bloated, suspicious bodies.\n\n## Best Practices\n- Combine with disease or as a distraction for monsters.\n- Allow for detection (Medicine, Perception).\n\n## References\n- Master the Dungeon's [Poison and Disease Traps for D&D](https://www.youtube.com/watch?v=_pVRxLjmzSI)\n",
+        "created_at": "2025-05-09T15:48:32.108Z",
+        "updated_at": "2025-05-26T20:29:01.436Z",
+        "path": "DungeonDesign.Traps.ExplodingCorpses"
+    }
+}

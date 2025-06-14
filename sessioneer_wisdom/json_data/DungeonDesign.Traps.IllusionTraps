@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "d29729d3-dd48-4e9b-bbfd-218dbb028538",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Illusion Traps",
+        "content": "# Illusion Traps\n\nIllusion traps use magical or mundane illusions to mislead, lure, or endanger players. These traps are all about deception and testing player caution and creativity.\n\n## Example Illusion Traps by Level\n\n### Low-Level Example: Illusory Floor\n*Trigger:* Stepping onto what appears to be a solid floor in a corridor.\n*Effect:* DC 13 Investigation or Arcana to detect. On failure, the character falls into a 10-foot pit (1d6 bludgeoning damage). The illusion can be dispelled with \"Dispel Magic.\"\n*Clue:* Slight shimmer, odd echo when tapping the floor, dust that doesn't settle.\n\n### Mid-Level Example: False Treasure\n*Trigger:* Approaching a chest that appears to be overflowing with gold.\n*Effect:* DC 15 Investigation to spot. On failure, the chest is an illusion hiding a swarm of poisonous snakes (2d6 poison damage on attack, DC 14 Constitution save or poisoned for 1 hour).\n*Clue:* Gold coins that don't clink, chest casts no shadow.\n\n### High-Level Example: Hall of Mirrors\n*Trigger:* Entering a room filled with magical mirrors.\n*Effect:* DC 17 Arcana to detect. On trigger, the party is split into illusory duplicates, and each member must make a DC 17 Wisdom save or become lost in a maze of illusions for 1d4 rounds, unable to act.\n*Clue:* Reflections that move independently, faint whispers, cold air.\n\n## Design Tips\n- Use to hide real dangers (pits, monsters) or create false safety.\n- Allow for detection (Arcana, Investigation, or Wisdom saves).\n\n## Best Practices\n- Combine with other traps for layered danger.\n- Use to create paranoia or test player caution.\n\n## References\n- [D&D Beyond Trap Design Guide](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Traps)\n",
+        "created_at": "2025-05-09T15:47:53.355Z",
+        "updated_at": "2025-05-26T20:28:59.506Z",
+        "path": "DungeonDesign.Traps.IllusionTraps"
+    }
+}

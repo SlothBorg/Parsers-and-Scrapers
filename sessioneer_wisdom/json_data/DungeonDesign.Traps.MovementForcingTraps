@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "1435785f-b9de-4934-a1af-179cc015c72c",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Movement-Forcing Traps",
+        "content": "# Movement-Forcing Traps\n\nMovement-forcing traps push, pull, or otherwise force characters to move, often into danger. These traps are great for repositioning players, setting up ambushes, or breaking up static encounters.\n\n## Example Movement-Forcing Traps by Level\n\n### Low-Level Example: Gust Trap\n*Trigger:* Stepping on a pressure plate in a corridor.\n*Effect:* DC 13 Perception to spot, DC 13 Strength save to resist. On failure, a gust of wind pushes the character 10 feet into a pit trap or hazard.\n*Clue:* Drafty corridor, dust blowing, faint whistling sound.\n\n### Mid-Level Example: Magnetic Pull Trap\n*Trigger:* Entering a room with a hidden magnetic field.\n*Effect:* DC 15 Investigation to spot, DC 14 Strength save to resist. On failure, metal-wearing characters are pulled across the room into spikes or restraints.\n*Clue:* Metal debris, scorch marks, humming sound.\n\n### High-Level Example: Gravity Shift Trap\n*Trigger:* Activating a magical rune in a puzzle chamber.\n*Effect:* DC 17 Arcana to detect. On trigger, gravity shifts, pulling all creatures toward a wall or ceiling (DC 17 Dexterity save to avoid falling into hazards).\n*Clue:* Floating dust, shifting shadows, magical symbols.\n\n## Design Tips\n- Use to reposition players or set up ambushes.\n- Combine with other traps for layered effects.\n\n## Best Practices\n- Use to break up static encounters or force tactical decisions.\n- Allow for creative resistance or escape.\n\n## References\n- [Roll20 Mechanical Traps Compendium](https://roll20. net/compendium/dnd5e/Traps)\n",
+        "created_at": "2025-05-09T15:49:14.905Z",
+        "updated_at": "2025-05-26T20:28:58.293Z",
+        "path": "DungeonDesign.Traps.MovementForcingTraps"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "823bfcd9-29bb-4db8-8d38-cce8bf89a616",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Spring Traps",
+        "content": "# Spring Traps\n\nSpring traps use tension or stored energy to launch, impale, or eject targets. These traps are often sudden and surprising, making them memorable hazards in dungeons.\n\n## Example Spring Traps by Level\n\n### Low-Level Example: Spring-Loaded Dart\n*Trigger:* Pressing a loose stone in a corridor.\n*Effect:* DC 12 Perception to spot, DC 13 Dexterity save to avoid. On failure, a dart shoots out, dealing 1d6 piercing damage.\n*Clue:* Small holes in the wall, faint click when stepping on the stone.\n\n### Mid-Level Example: Spring-Loaded Spear\n*Trigger:* Stepping on a pressure plate in a treasure room.\n*Effect:* DC 14 Perception to spot, DC 15 Dexterity save to avoid. On failure, a spear launches from the wall, dealing 2d8 piercing damage and pinning the target to the wall (restrained until freed, DC 14 Strength check).\n*Clue:* Scrapes on the floor, a groove in the wall, a faint metallic smell.\n\n### High-Level Example: Ejector Platform\n*Trigger:* Sitting on a trapped throne in a villain's lair.\n*Effect:* DC 16 Investigation to spot, DC 17 Dexterity save to avoid. On failure, the seat launches the character 30 feet into a spiked pit (3d10 bludgeoning + 3d6 piercing damage). Magic such as \"Feather Fall\" or \"Misty Step\" can mitigate the effect.\n*Clue:* Worn armrests, faint whirring sound, a suspiciously clean pit below.\n\n## Design Tips\n- Use for sudden, surprising effects (e.g., spring-loaded spikes, ejector seats).\n- Make the trigger clear but not always obvious.\n\n## Best Practices\n- Allow for detection (grooves, tension wires) and disarmament.\n- Use as part of a sequence (e.g., after a snare or switch trap).\n\n## References\n- [D&D Beyond Trap Design Guide](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#Traps)\n",
+        "created_at": "2025-05-09T15:44:59.519Z",
+        "updated_at": "2025-05-26T20:28:59.022Z",
+        "path": "DungeonDesign.Traps.SpringTraps"
+    }
+}

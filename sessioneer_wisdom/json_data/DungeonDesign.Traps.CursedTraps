@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "e49680bd-7d13-4e22-a7ff-9f1d5b90ba46",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Cursed Traps",
+        "content": "# Cursed Traps\n\nCursed traps inflict magical curses or lingering effects, often with narrative consequences. These traps are best used to create long-term challenges and story hooks, rather than just immediate punishment.\n\n## Example Cursed Traps by Level\n\n### Low-Level Example: Cursed Chest\n*Trigger:* Opening a chest in a dusty crypt.\n*Effect:* DC 13 Arcana to detect. On failure, the opener is cursed with disadvantage on all ability checks until the curse is lifted (\"Remove Curse\").\n*Clue:* Faint magical aura, runes carved into the chest, cold air.\n\n### Mid-Level Example: Glyph of Weakness\n*Trigger:* Crossing a threshold marked with a glowing glyph.\n*Effect:* DC 15 Arcana to detect. On trigger, the victim's Strength score is reduced by 2d4 for 24 hours or until the curse is broken.\n*Clue:* Glowing glyph, a sense of dread, bones nearby.\n\n### High-Level Example: Soul Binding Trap\n*Trigger:* Touching a cursed idol in a lich's sanctum.\n*Effect:* DC 17 Arcana to detect. On failure, the victim's soul is bound to the idol, preventing resurrection until the curse is broken by a \"Greater Restoration\" or similar magic.\n*Clue:* Whispering voices, flickering shadows, a chill that lingers.\n\n## Design Tips\n- Use as a consequence for greed or carelessness (e.g., cursed treasure, glyphs).\n- Make the curse thematic and story-relevant.\n\n## Best Practices\n- Use as a long-term challenge, not just a punishment.\n- Provide clues or means to break the curse.\n\n## References\n- The Fantasy Forge's [How to Make BETTER D&D Traps...](https://www.youtube.com/watch?v=J8QzDVWh1Bw)\n",
+        "created_at": "2025-05-09T15:48:11.306Z",
+        "updated_at": "2025-05-26T20:28:59.214Z",
+        "path": "DungeonDesign.Traps.CursedTraps"
+    }
+}

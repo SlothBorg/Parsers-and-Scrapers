@@ -1,0 +1,11 @@
+{
+    "value": {
+        "id": "377840cc-46c7-481d-8ad4-16338c4b0764",
+        "parent_id": "a084edce-f0fe-4672-948f-26fc856f085c",
+        "title": "Unexpected Traps",
+        "content": "# Unexpected Traps\n\nUnexpected traps subvert player expectations, often hidden behind decoys or layered with other traps. These traps are best used sparingly to avoid frustration and to create memorable twists.\n\n## Example Unexpected Traps by Level\n\n### Low-Level Example: Hidden Spring Trap\n*Trigger:* After disarming an obvious pit trap, a hidden spring trap is triggered.\n*Effect:* DC 15 Perception to spot, DC 14 Dexterity save to avoid. On failure, a spear launches from the wall, dealing 2d8 piercing damage.\n*Clue:* Faint groove in the wall, tension in the air, dust-free area.\n\n### Mid-Level Example: Layered Trap Sequence\n*Trigger:* Disarming a visible snare reveals a concealed magical glyph.\n*Effect:* DC 16 Arcana to detect. On trigger, the glyph explodes, dealing 4d6 force damage and knocking creatures prone.\n*Clue:* Magical residue, faint humming, overlapping trap mechanisms.\n\n### High-Level Example: Decoy Treasure Room\n*Trigger:* Entering a room with obvious treasure and traps.\n*Effect:* DC 17 Investigation to spot. On trigger, the real trap is a teleportation circle that sends the party to a monster lair or puzzle chamber.\n*Clue:* Odd placement of treasure, magical runes, shifting floor tiles.\n\n## Design Tips\n- Use in themed dungeons or as a twist after obvious traps.\n- Make detection possible but challenging.\n\n## Best Practices\n- Use sparingly to avoid frustration.\n- Combine with narrative clues or foreshadowing.\n\n## References\n- Master the Dungeon's [Obvious vs Unexpected Traps](https://www.youtube.com/watch?v=TWZ0WdWoRSQ)\n",
+        "created_at": "2025-05-09T15:48:51.958Z",
+        "updated_at": "2025-05-26T20:28:57.556Z",
+        "path": "DungeonDesign.Traps.UnexpectedTraps"
+    }
+}
